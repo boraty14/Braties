@@ -1,0 +1,4 @@
+L1 - Do not play for strictly dominated strategy.
+L2 - Personally optimized results may suck compared to collective ones
+L3 - You have to know what you want to get what you want - Payoffs matter.
+L4 - Put yourself at others shoes and try to figure out what they will do.

@@ -1,0 +1,8 @@
+Game
+
+- Hit stop, show important moments in your game!
+- Balance risk and reward (less risk/reward => more casual, wider audience)
+- Game dev is also work, you don't have to particularly like it
+- Take care of lag, responsiveness really effects gameplay feeling.
+- Apply stress accordingly, (squeeze and release)
+- For the art, first draw the light not the asset
