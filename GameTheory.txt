@@ -1,3 +1,5 @@
+notes from https://www.youtube.com/watch?v=qQ3kFydI_xQ&list=PL6EF60E1027E1A10B GameTheory class
+
 L1 - Do not play for strictly dominated strategy.
 L2 - Personally optimized results may suck compared to collective ones
 L3 - You have to know what you want to get what you want - Payoffs matter.
