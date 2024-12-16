@@ -14,3 +14,7 @@ notes from https://www.youtube.com/@sora_sakurai_en/videos for game insights
 - In pull players feel urgency and pressure, in pull we reward and relax them.
 - Make the vfx pop, make sure it is visible and understanble, mix it with contrast and crips effects.
 - Think about how opposing elements can help you standout (both effects and design)
+- First impression is everything, player should understand in 3 min why game is fun.
+- Dont bore with too much monologue/video. Tutorial should be a part of game.
+- UI : clarity or style, no clear winner, adjust it depending on game
+- Giving weight to button: can change gameplay experience, use accordingly
