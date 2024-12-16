@@ -6,3 +6,11 @@ notes from https://www.youtube.com/@sora_sakurai_en/videos for game insights
 - Take care of lag, responsiveness really effects gameplay feeling.
 - Apply stress accordingly, (squeeze and release)
 - For the art, first draw the light not the asset
+- Not just games, but in presentations you also need to be fast, trim the fat, be direct.
+- Animation references matter, even though even after them still animators needs to fill in the blanks.
+- Rpgs (turn based) can vary if you make it more complex/more casual. Act according to your audience.
+- To make game enjoyable both for beginners and advanced, make game playable with basic mechanics but also let advanced players to play in advanced optional mechanics.
+- Push and pull : matter in each game. Push mean making player take action and pull means player can effect game without putting effort actively.
+- In pull players feel urgency and pressure, in pull we reward and relax them.
+- Make the vfx pop, make sure it is visible and understanble, mix it with contrast and crips effects.
+- Think about how opposing elements can help you standout (both effects and design)
