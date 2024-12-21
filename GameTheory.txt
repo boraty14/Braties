@@ -4,3 +4,9 @@ L1 - Do not play for strictly dominated strategy.
 L2 - Personally optimized results may suck compared to collective ones
 L3 - You have to know what you want to get what you want - Payoffs matter.
 L4 - Put yourself at others shoes and try to figure out what they will do.
+
+- Common knowledge is not so common.
+- Take care how many steps you put yourself in other's shoes.
+- Mutual knowledge: everyone knows. Common knowledge: Eveyone knows and everyone knows that everyhone knows
+
+- Median Voter Theorem: People tend to crowd into middle, voting, stations (same spot so does not lose competition) etc.

@@ -18,3 +18,43 @@ notes from https://www.youtube.com/@sora_sakurai_en/videos for game insights
 - Dont bore with too much monologue/video. Tutorial should be a part of game.
 - UI : clarity or style, no clear winner, adjust it depending on game
 - Giving weight to button: can change gameplay experience, use accordingly
+- Players come first, do not give up features for dev feasiblity (Try to compromise)
+- Name files/structure matters!
+- Keep rewards in sight! Let players know what they are playing for and let them enjoy completing them.
+- Do not neglect exercising
+- Make music tempo match your game!
+- Game fun does not depend solely on game essence. There can be games such as:
+ + Fun to control
+ + Adventure games/visual novels
+ + Cinematic/story focused games
+ + Licensed/IP games
+ + Games based on real life/ simulation
+ + Building/crafting mechanics
+ + Rhythm Games
+- Lines are blurry for fun, do not keep it restricted to game essence definition and find what is fun.
+- For animations too much is just right, dont be afraid to exagarate, this is what you should do. Also for linear animations you can use easing, going a bit further and going back to target state.
+
+- Spec change should be done carefully (inevitable at some point). Also when a problem shows, don't hide it and take action/decision immediately.
+- Make objects with collision stand out and non-collision objects should not outshine them.
+- When adding sounds, adjust their volume according to their importance
+- Make your character shine, do not let it get buried in visual effects
+- Attack anims: Standby - Lead in - Attack - Follow through
+
+- Jumping can change feeling/gameplay, set it accordingly and tinker with it
+- For game proposal, being short is not always best case. As long as it is clear, engaging and to the point it is OK to have multiple pages if they are capsule sized. What matters most is what is written inside
+- Set difficulty behind scenes if needed. Strong play also can be rewarded but you should also welcome newcomers.
+- Think about your target monitor, how you gonna use it and how you gonna fill the screen.
+- When you are developping, do not lose sight of what is important. Make yourself and team members engaged.
+- You will have performance concerns, distinguish what is major and minor
+- Past is past, now is now, do not miss the new games only because you prefer old games more.
+- Game will require fine tuning, make it easily tunable (Excel, parameters etc.)
+- You can configure your hitstop A LOT. Do not forget to tweak it.
+- Let players "cheat" within the bounds of the game. It makes them feel smart.
+- For animations, do not always need lead-in anim, responsiveness can be better. But for online gameplay lead-in is nice for covering up lag.
+- A gameplay can be achieved via single button (react, repeat, tapping, alternating.
+- Keep your proposal short and on point (be prepared). Do not drag it and ramble. Sometimes just main idea itself might not do justice to game, so do not forget to polish also. Be quick, snappy, energetic and use visuals.
+
+- Mind audio details and whic environment players will be hearing it, test it.
+- Try to add as much as QoL features in settings as possible.
+- Vfxs vary, use them where they are suited (flash, blast, smoke, and altogether)
+- Do not just copy some successful game, deconstruct it, find out why it is fun, and use it in your unique way.
