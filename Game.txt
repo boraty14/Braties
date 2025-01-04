@@ -58,3 +58,4 @@ notes from https://www.youtube.com/@sora_sakurai_en/videos for game insights
 - Try to add as much as QoL features in settings as possible.
 - Vfxs vary, use them where they are suited (flash, blast, smoke, and altogether)
 - Do not just copy some successful game, deconstruct it, find out why it is fun, and use it in your unique way.
+- If you are unhappy about something, say it. Don't wait or procastinate.
