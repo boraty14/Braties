@@ -59,3 +59,20 @@ notes from https://www.youtube.com/@sora_sakurai_en/videos for game insights
 - Vfxs vary, use them where they are suited (flash, blast, smoke, and altogether)
 - Do not just copy some successful game, deconstruct it, find out why it is fun, and use it in your unique way.
 - If you are unhappy about something, say it. Don't wait or procastinate.
+
+- Do not hard track player, explore camera options (cinemachine)
+- Attack anims really matter so take care, asymmetry and exageration is usually good.
+- Get the sense of scale right
+- For good errands (npc, moving map) quests in game
+ + Fitting rewards
+ + frequent moments of joy
+ + freedom to strategize
+ + Don't make it longer, speedy exit once quest is done.
+ + A sense of future development
+
+- When adding a new mechaninc, think about opposite one too, (fly - fall, risk - reward)
+- You will forget hardship but game will endure.
+- Music are not memorable as they used to be because of visual improvements, they don't need to stand out that much. Still for making it memorable instead of using lots of music you can use fewer music more accordingly.
+- Every game calls for a unique director's touch. (In solo/indie dev, you are the director)
+- When designing game, main circle is stress -> relief -> growth -> progress. Other thane enemies you can apply stress in varios ways.
+- You are also competing with past, so in a way you need something fresh/unique. Easier said than done ofc. Be aware of past and present when creating something.
