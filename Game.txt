@@ -76,3 +76,11 @@ notes from https://www.youtube.com/@sora_sakurai_en/videos for game insights
 - Every game calls for a unique director's touch. (In solo/indie dev, you are the director)
 - When designing game, main circle is stress -> relief -> growth -> progress. Other thane enemies you can apply stress in varios ways.
 - You are also competing with past, so in a way you need something fresh/unique. Easier said than done ofc. Be aware of past and present when creating something.
+
+- Say no to slow, keep loading times min/no as much as possible!
+- First consider about your rewards, they are what trigger the players!
+- Frame feeling is important
+- Follow through animation (after attack) takes most screen space so take care, don't just interpolate it back.
+- Try to avoid loadign screens or use presentations.
+- Visuals matter!
+- Marketing is an important multiplier for game's success.
