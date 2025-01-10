@@ -84,3 +84,10 @@ notes from https://www.youtube.com/@sora_sakurai_en/videos for game insights
 - Try to avoid loadign screens or use presentations.
 - Visuals matter!
 - Marketing is an important multiplier for game's success.
+
+- For competitive games, more the complex the better for replayability but it does not have to be the case all the time. There is always place for casual fun too.
+- If you re not motivated, no point in overthinking. Just do it already.
+- Think about speed and unit of speed before hand.
+- Tutorials should feel natural, like a part of the game, start giving challanges from start as tutorial so players can be engaged.
+- Understanding game essence (pull/push or risk/reward) is important, you can iterate ideas then even if you are not good at given game.
+- More people means more management so productivity drops inevitably, goal is to keep it in minimum.
